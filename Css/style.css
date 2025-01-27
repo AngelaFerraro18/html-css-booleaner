@@ -102,7 +102,7 @@ thead{
     text-align: left;
     
 }
-
+ /* modifica testo*/
 .riga-colorata{
     background-color: rgb(143, 208, 235);
 }
@@ -115,17 +115,42 @@ h3{
     font-size: 20px;
 }
 
+/*modifica immagini finali*/
+
 .frase-bianca{
-    font-size: 20px;
-    color: rgb(255,255,255));
+    font-size: 30px;
+    color: rgb(255,255,255);
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 #immaginepc{
-    background-image: url('../img/monitor.jpg');
     background-repeat: no-repeat;
+    background-size: contain;
     display: block;
     padding-bottom: 1em;
-    
-
-
+    position: absolute;
 }
+
+#container1{
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    width: 312px;
+    height: 208px;
+    padding-bottom: 1em;
+}
+
+#container2{
+    background-image: url('../img/graph.jpg');
+    background-size: contain;
+    width: 312px;
+    height: 208px;
+}
+
+#immaginegraf{
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    position: absolute;
+}
+
