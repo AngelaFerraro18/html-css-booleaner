@@ -1,16 +1,12 @@
 /*modifica stile header*/
-
-div{
+#logo-bg{
     background-color: rgb(78,160,255);
 }
 
 /*modifica stile main*/
-
 h1{
     font-size: 100px;
 }
-
-
 
 h2{
     font-size: 40px;
@@ -24,3 +20,17 @@ h2{
 #data{
     font-size: 30px;
 }
+
+#immagini-tim{
+   
+}
+
+
+#paragrafo1{
+    font-size: 20px;
+}
+
+ul{
+    font-size: 20px;
+}
+
