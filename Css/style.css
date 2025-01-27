@@ -20,7 +20,7 @@ body{
     height: 70px;
     background-repeat: no-repeat;
     position: absolute;
-    top: 80px;
+    top: 60px;
 
     
 }
@@ -28,10 +28,14 @@ body{
 /*modifica stile main*/
 h1{
     font-size: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h2{
     font-size: 40px;
+    margin-top: 0px;
+
 }
 
 .colore-grigio{
@@ -46,14 +50,22 @@ h2{
     font-size: 30px;
 }
 
+p{
+    margin-top: 0px;
+}
 
 .paragrafo1{
     font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 ul{
     font-size: 20px;
+    padding-left: 20px;
 }
+
+
 /*modifica tabella*/
 table{
     font-size: 20px;
