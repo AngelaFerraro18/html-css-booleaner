@@ -29,6 +29,9 @@ h1{
 
 h2{
     font-size: 40px;
+}
+
+.colore-grigio{
     color: grey;
 }
 
@@ -38,10 +41,6 @@ h2{
 
 #data{
     font-size: 30px;
-}
-
-#immagini-tim{
-   
 }
 
 
@@ -70,3 +69,21 @@ thead{
     background-color: yellow;
 }
 
+h3{
+    font-size: 20px;
+}
+
+.frase-bianca{
+    font-size: 20px;
+    color: rgb(255,255,255));
+}
+
+#immaginepc{
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    display: block;
+    padding-bottom: 1em;
+    
+
+
+}
