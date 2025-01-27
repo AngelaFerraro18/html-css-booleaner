@@ -3,8 +3,9 @@
 /*modifica stile body*/
 
 body{
-    margin: 0px;
-}
+    margin: 0px;  
+     }
+
 /*modifica stile header*/
 #pattern-bg{
     background-image: url('../img/pattern.png');
