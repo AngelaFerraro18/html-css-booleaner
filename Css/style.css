@@ -1,3 +1,26 @@
+/*modifica stile header*/
+
 div{
     background-color: rgb(78,160,255);
+}
+
+/*modifica stile main*/
+
+h1{
+    font-size: 100px;
+}
+
+
+
+h2{
+    font-size: 40px;
+    color: grey;
+}
+
+#titolo{
+    color:rgb(32, 169, 229);
+   }
+
+#data{
+    font-size: 30px;
 }
